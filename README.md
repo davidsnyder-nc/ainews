@@ -13,6 +13,20 @@ A web application that generates AI-powered news stories across various categori
 - Copy to clipboard functionality
 - Direct integration with NotebookLM
 
+## Screenshots
+
+### Main Interface
+![Main Interface](docs/images/main-interface.png)
+*The main interface showing category selection and generation options*
+
+### Settings Panel
+![Settings Panel](docs/images/settings-panel.png)
+*Configuration options for API keys and preferences*
+
+### Generated Content
+![Generated Content](docs/images/generated-content.png)
+*Example of generated news stories with copy and audio options*
+
 ## Setup
 
 1. Clone the repository
